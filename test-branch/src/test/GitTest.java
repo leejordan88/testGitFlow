@@ -7,5 +7,6 @@ public class GitTest {
 		ArrayList<String> list = new ArrayList<String>();
 		list.add("김밥");
 		list.add("컵라면");
+		list.add("샌드위치");
 	}
 }
